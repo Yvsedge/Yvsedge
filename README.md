@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering Student • Frontend Developer • Aspiring Competitive Programmer
+  Computer Engineering Student • Building • Learning
 </p>
 
 <br>
@@ -14,8 +14,14 @@
 
 - Computer Engineering student at KJSCE.
 - Learning React, TypeScript, and modern web development.
-- Competitive programming and problem solving.
-- Enjoy gaming, anime, and technology.
+- DSA and problem solving.
+- Enjoy gaming, anime, and tech.
+
+## Currently
+
+- Learning React & TypeScript
+- Practicing DSA on LeetCode
+- Building personal projects
 
 ## Languages & Tools
 
