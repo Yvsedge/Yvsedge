@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering Student • Frontend Developer • Competitive Programmer
+  Computer Engineering Student • Frontend Developer • Aspiring Competitive Programmer
 </p>
 
 <br>
