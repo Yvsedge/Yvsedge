@@ -1,7 +1,7 @@
 <h1 align="center">Yashvardhan Samadhiya</h1>
 
 <p align="center">
-  <img src="./assets/uma.gif" width="300"/>
+  <img src="./assets/lowgif.gif" width="300"/>
 </p>
 
 <p align="center">
