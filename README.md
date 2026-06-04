@@ -50,17 +50,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/Yvsedge">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yvsedge&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-beta-eight-82.vercel.app/api?username=Yvsedge&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&cache_seconds=86400"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yvsedge&layout=compact&langs_count=8&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Yvsedge">
     <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Yvsedge&bg_color=0d1117&color=00E5FF&line=FF00AA&point=00E5FF&area=true&area_color=FF00AA&title_color=FF00AA&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Yvsedge">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yvsedge&theme=synthwave&hide_border=true"/>
   </a>
 </p>
