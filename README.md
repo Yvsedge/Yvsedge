@@ -1,14 +1,8 @@
 <h1 align="center">Yashvardhan Samadhiya</h1>
 
 <p align="center">
-  <img src="./assets/lowgif.gif" width="300"/>
-</p>
-
-<p align="center">
   Computer Engineering Student • Building • Learning
 </p>
-
-<br>
 
 ## About Me
 
