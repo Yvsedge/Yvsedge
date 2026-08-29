@@ -1,27 +1,32 @@
 <h1 align="center">Yashvardhan Samadhiya</h1>
 
 <p align="center">
-  Computer Engineering Student • Building • Learning
+  Full-Stack Developer • Computer Engineering Student • Building • Learning
 </p>
 
 ## About Me
 
 - Computer Engineering student at KJSCE.
-- Learning React, TypeScript, and modern web development.
+- Full-stack developer working across React, TypeScript, Express, and PostgreSQL.
 - DSA and problem solving.
 - Enjoy gaming, anime, and tech.
 
 ## Currently
 
-- Learning React & TypeScript
-- Practicing DSA on LeetCode
-- Building personal projects
+- Deepening backend fundamentals — testing, rate limiting, auth, system design — before returning to build out DevLens's AI review pipeline.
+- Practicing DSA on LeetCode.
+
+## Projects
+
+**WIRED** — Real-time chat app built with React, TypeScript, Tailwind CSS v4, Socket.IO, TanStack Query, and shadcn/ui. Custom dark-navy token system and full sidebar/profile UI.
+
+**Personal Finance Tracker** — End-to-end finance tracker: Express REST API, PostgreSQL (Neon), deployed on Vercel/Render. TanStack Query, Recharts, dark mode, auth, pagination, filtering.
 
 ## Languages & Tools
 
 <p align="center">
   <a href="https://github.com/Yvsedge">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,git,github,npm,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,react,nodejs,express,postgres,redis,docker,git,github,npm,vscode&perline=6" />
   </a>
 </p>
 
@@ -29,12 +34,16 @@
 
 <p align="center">
   <a href="mailto:yyyash2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF00AA?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://leetcode.com/u/Yvsedge/">
     <img src="https://img.shields.io/badge/LeetCode-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  
+<a href="https://www.linkedin.com/in/yashvardhan-samadhiya-65958b215/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ## Stats
@@ -44,12 +53,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/Yvsedge">
-    <img height="180em" src="https://github-readme-stats-beta-eight-82.vercel.app/api?username=Yvsedge&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&cache_seconds=86400"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yvsedge&layout=compact&langs_count=8&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Yvsedge">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Yvsedge&bg_color=0d1117&color=00E5FF&line=FF00AA&point=00E5FF&area=true&area_color=FF00AA&title_color=FF00AA&hide_border=true"/>
   </a>
 </p>
