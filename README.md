@@ -53,6 +53,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Yvsedge">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yvsedge&layout=compact&langs_count=8&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-taupe-theta-27.vercel.app/api?username=Yvsedge&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats-taupe-theta-27.vercel.app/api/top-langs/?username=Yvsedge&layout=compact&langs_count=8&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 </p>
